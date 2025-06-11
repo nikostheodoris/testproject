@@ -1,4 +1,4 @@
-# testproject1
+# testproject
 
 This is a test project with Angular.
 
